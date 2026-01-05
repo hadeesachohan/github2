@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Git Assignment</title>
+    <link rel="stylesheet" href="design.css">
+</head>
+<body>
+    <h1>Hello GitHub hadeesa!</h1>
+    <p>This is my first Git assignment.</p>
+</body>
+</html>
